@@ -12,7 +12,7 @@ In this project we explore regression techniques which includes :
 
 2) Multiple Linear Regression ( Y = b0 + b1.X1 + b2.X2 + ..... + bn.Xn )
 
-3) Polynomial Linear Regression
+3) Polynomial Regression
 
 4) Support Vector Regression
 
