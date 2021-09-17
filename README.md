@@ -20,3 +20,31 @@ In this project we explore regression techniques which includes :
 
 6) Random Forest Regression
 
+# Datasets
+
+We use various datasets to address various type of problems where regression is applicable.
+
+For Simple Linear Regression technique 
+
+Download the dataset:
+
+https://www.kaggle.com/vihansp/salary-data
+
+For Multiple Linear Regression technique 
+
+Download the dataset:
+
+https://www.kaggle.com/farhanmd29/50-startups
+
+For Polynomial Regression and Support Vector Regression 
+
+Download the dataset:
+
+https://www.kaggle.com/akram24/position-salaries
+
+
+
+
+
+
+
