@@ -1,0 +1,15 @@
+Day,Outlook,Temp.,Humidity,Wind,Golf Players
+1,Sunny,Hot,High,Weak,25
+2,Sunny,Hot,High,Strong,30
+3,Overcast,Hot,High,Weak,46
+4,Rain,Mild,High,Weak,45
+5,Rain,Cool,Normal,Weak,52
+6,Rain,Cool,Normal,Strong,23
+7,Overcast,Cool,Normal,Strong,43
+8,Sunny,Mild,High,Weak,35
+9,Sunny,Cool,Normal,Weak,38
+10,Rain,Mild,Normal,Weak,46
+11,Sunny,Mild,Normal,Strong,48
+12,Overcast,Mild,High,Strong,52
+13,Overcast,Hot,Normal,Weak,44
+14,Rain,Mild,High,Strong,30
